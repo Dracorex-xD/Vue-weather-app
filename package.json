@@ -1,0 +1,22 @@
+{
+  "name": "vue-weather-app",
+  "version": "1.0.0",
+  "description": "from https://www.youtube.com/watch?v=JLc-hWsPTUY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dracorex-xD/Vue-weather-app.git"
+  },
+  "keywords": [
+    "vue-weather"
+  ],
+  "author": "Zacharias_xD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dracorex-xD/Vue-weather-app/issues"
+  },
+  "homepage": "https://github.com/Dracorex-xD/Vue-weather-app#readme"
+}
